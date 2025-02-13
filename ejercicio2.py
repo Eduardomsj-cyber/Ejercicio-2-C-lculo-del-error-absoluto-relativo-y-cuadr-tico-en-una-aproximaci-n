@@ -1,3 +1,13 @@
+#   Codigo que implementa un esquema numerico 
+#   para determinar la aproximacion de Leibniz
+# 
+#           Autor:
+#   Dr. Ivan de Jesus May-Cen
+#   imaycen@hotmail.com
+#   Version 1.0 : 29/01/2025
+#
+
+
 import numpy as np
 import matplotlib.pyplot as plt  # Importamos librerías para cálculos numéricos y gráficos
 
